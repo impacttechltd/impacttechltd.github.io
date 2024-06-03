@@ -34,7 +34,9 @@ const Footer = () => {
       </div>
       <div className="flex mt-28 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 Impact Technologies.
+          Impact Technologies LTD, registered in England and Wales at 71-75
+          Shelton Street, Covent Garden, London, WC2H 9JQ. Registered No:
+          15743343
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">
